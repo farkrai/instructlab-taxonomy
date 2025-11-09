@@ -1,0 +1,111 @@
+version: 3
+created_by: story_creator
+domain: storytelling
+seed_examples:
+  - context: |
+      "My Little Cattle" is a heartwarming fantasy novel set in the magical valley of Moondrift Meadows.
+      The story follows Lily Brighthorn, a young cattle herder who discovers that her smallest calf,
+      Stardust, can speak and has the power to heal sick animals with her glowing hooves. Together,
+      they embark on a quest to save the Great Pasture from a mysterious blight called the Gray Wither
+      that turns grass to ash. Along the way, they meet Bramble the wise old goat, Thunder the guardian
+      bull, and Whisper the mischievous sheep who can control the wind.
+    questions_and_answers:
+      - question: What is "My Little Cattle" about?
+        answer: |
+          "My Little Cattle" is a fantasy novel about Lily Brighthorn, a young cattle herder who
+          discovers her smallest calf, Stardust, can speak and has healing powers. They go on a
+          quest to save the Great Pasture from a blight called the Gray Wither.
+      - question: Who is the main character in "My Little Cattle"?
+        answer: |
+          The main character is Lily Brighthorn, a young cattle herder. Her magical calf Stardust
+          is also a central character in the story.
+      - question: What special ability does Stardust have?
+        answer: |
+          Stardust can speak and has the power to heal sick animals with her glowing hooves.
+  - context: |
+      In "My Little Cattle", Moondrift Meadows is described as a lush valley surrounded by crystal
+      mountains where moonlight pools in silver streams. The Great Pasture is the heart of the valley,
+      a vast expanse of emerald grass where all the animals gather. The story takes place over one
+      summer, beginning at the Midsummer Festival and ending at the Harvest Moon.
+    questions_and_answers:
+      - question: Where does "My Little Cattle" take place?
+        answer: |
+          The story takes place in Moondrift Meadows, a lush valley surrounded by crystal mountains,
+          with the Great Pasture at its heart.
+      - question: How long does the story of "My Little Cattle" span?
+        answer: |
+          The story takes place over one summer, from the Midsummer Festival to the Harvest Moon.
+      - question: What is the Gray Wither in "My Little Cattle"?
+        answer: |
+          The Gray Wither is a mysterious blight that threatens the Great Pasture by turning
+          grass to ash, which Lily and Stardust must stop.
+  - context: |
+      Lily lives in a small cottage at the edge of the meadows with her grandmother, Nana Rose, who
+      taught her everything about caring for cattle. The cottage has a red door that's said to bring
+      good luck and a garden full of healing herbs. Lily learned from Nana Rose that kindness to all
+      creatures, no matter how small, is the greatest magic of all.
+    questions_and_answers:
+      - question: Who does Lily live with in "My Little Cattle"?
+        answer: |
+          Lily lives with her grandmother, Nana Rose, in a small cottage at the edge of the meadows.
+      - question: What is special about Lily's cottage?
+        answer: |
+          The cottage has a red door that's said to bring good luck and a garden full of healing herbs.
+      - question: What did Nana Rose teach Lily?
+        answer: |
+          Nana Rose taught Lily everything about caring for cattle and that kindness to all creatures,
+          no matter how small, is the greatest magic.
+  - context: |
+      The supporting characters include Bramble the wise old goat who knows ancient meadow lore,
+      Thunder the guardian bull who protects the herd, and Whisper the mischievous sheep who can
+      control the wind. Each character helps Lily and Stardust on their quest in unique ways.
+    questions_and_answers:
+      - question: Who are the supporting characters in "My Little Cattle"?
+        answer: |
+          The supporting characters include Bramble the wise old goat, Thunder the guardian bull,
+          and Whisper the mischievous sheep who can control the wind.
+      - question: What makes each supporting character unique?
+        answer: |
+          Bramble knows ancient meadow lore, Thunder protects the herd as guardian bull, and
+          Whisper can control the wind with his mysterious powers.
+      - question: How do the supporting characters help?
+        answer: |
+          Each character helps Lily and Stardust on their quest in unique ways using their
+          special abilities and knowledge.
+  - context: |
+      The climax occurs when Lily and Stardust discover that the Gray Wither is caused by the Lonely
+      Shadow, a spirit who was once the guardian of the meadows but was forgotten by the animals. The
+      only way to stop the blight is for Stardust to share her healing light with the Lonely Shadow,
+      which requires an act of pure selflessness. Stardust must give up her ability to speak to restore
+      the Shadow's heart.
+    questions_and_answers:
+      - question: What causes the Gray Wither in "My Little Cattle"?
+        answer: |
+          The Gray Wither is caused by the Lonely Shadow, a forgotten spirit who was once the
+          guardian of the meadows.
+      - question: How is the Gray Wither stopped in "My Little Cattle"?
+        answer: |
+          Stardust stops the Gray Wither by sacrificing her ability to speak and sharing her
+          healing light with the Lonely Shadow to restore its heart.
+      - question: What sacrifice does Stardust make?
+        answer: |
+          Stardust sacrifices her ability to speak in an act of pure selflessness to save
+          the meadows and heal the Lonely Shadow.
+  - context: |
+      In the touching ending, Stardust chooses to sacrifice her voice, and the Gray Wither disappears.
+      Though she can no longer speak, Lily and Stardust's bond remains stronger than ever, and they
+      communicate through their hearts. The story explores themes of friendship, selfless sacrifice,
+      courage, and the importance of remembering and caring for all creatures.
+    questions_and_answers:
+      - question: What happens to Stardust at the end of "My Little Cattle"?
+        answer: |
+          Stardust loses her ability to speak but maintains her strong bond with Lily, and they
+          communicate through their hearts.
+      - question: What is the main theme of "My Little Cattle"?
+        answer: |
+          The main themes include friendship, selfless sacrifice, courage, and the importance of
+          remembering and caring for all creatures.
+      - question: How does the story end?
+        answer: |
+          The story ends with Stardust's sacrifice saving the meadows. Though she can no longer speak,
+          her bond with Lily remains stronger than ever as they communicate through their hearts.
