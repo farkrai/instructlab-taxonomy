@@ -1,3 +1,9 @@
+document_outline: A fantasy story about a young cattle herder and her magical calf who save their homeland from a mysterious blight.
+document:
+  repo: https://github.com/farkrai/instructlab-taxonomy
+  commit: e4049522cb0678be0a5bb80a72f28f42de43dc40
+  patterns:
+    - knowledge/story/my_little_cattle/knowledge_doc.md
 version: 3
 created_by: story_creator
 domain: storytelling
